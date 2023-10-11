@@ -1,1 +1,1 @@
-# Black Diamond Kayıt Botu
+# Kayıt Botu
